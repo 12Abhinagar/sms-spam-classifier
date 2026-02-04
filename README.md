@@ -18,10 +18,3 @@ An interactive Web Application that uses Machine Learning to classify messages a
 * **NLP Library:** [NLTK](https://www.nltk.org/)
 * **Machine Learning:** [Scikit-learn](https://scikit-learn.org/) (Multinomial Naive Bayes)
 * **Data Handling:** Pandas, Numpy
-
-## 📦 Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/12Abhinagar/sms-spam-classifier](https://github.com/12Abhinagar/sms-spam-classifier.git)
-   cd spam-classifier
