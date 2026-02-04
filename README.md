@@ -5,7 +5,6 @@ An interactive Web Application that uses Machine Learning to classify messages a
 
 
 ## 🚀 Live Demo
-*(Once you deploy to Streamlit Cloud, paste your link here)*
 [View Live App](https://sms-spams-classifier.streamlit.app/)
 
 ## ✨ Features
